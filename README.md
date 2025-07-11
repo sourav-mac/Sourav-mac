@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi there, I'm Sourav Mandal!<br><br>🎓 B.Tech CSE (AI & ML) student at Sister Nivedita University, Kolkata<br>💡 Passionate about AI, machine learning, and full-stack development<br>🌐 Currently building intelligent systems & responsive web apps<br>🚀 Exploring cloud computing, APIs, and scalable backend solutions<br>🎯 Always eager to learn and contribute to open source!<br><br>
+# 👋 Hi there, I'm Sourav Mandal!
+<br><br>🎓 B.Tech CSE (AI & ML) student at Sister Nivedita University, Kolkata<br>💡 Passionate about AI, machine learning, and full-stack development<br>🌐 Currently building intelligent systems & responsive web apps<br>🚀 Exploring cloud computing, APIs, and scalable backend solutions<br>🎯 Always eager to learn and contribute to open source!<br><br>
 
 
 ## 🌐 Socials:
